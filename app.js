@@ -13,7 +13,7 @@ const inputBtn = document.querySelector('.input_btn');
 const input = document.querySelector('input')
 //end of All selectors
 
-//The following is an array of data which contains local data
+//The following is an array of data which contains data which is present locally in system
 const data = [{
     image: './img/drink.jpg',
     text: "I'm Thirsty"
